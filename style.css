@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: auto;
+    width: 600px;
+    background-color: #c4f3f3cf;
+}
+
+.logo {
+    padding: 8px;
+    display: block;
+    font-size: 32px;
+    color: #7ccaf1;
+    text-transform: uppercase;
+    color: #4800b9;
+    
+}
+#inicio{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    background-color: #b3b9bc30;
+    border-radius: 4px;
+}
+#inicio img{
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    
+}
+
+h1{
+    text-align: center;
+}
+.outras{
+    width: 80%;
+}
+#outras img{
+    width: 180px;
+    height: 110px;
+}
+.title{
+    padding: 8px;
+}
+.title h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #4800b9;
+}
+
+#trecho p {
+    text-align: center; font-size: 16px;
+}
+
+#link {
+    text-align: center;
+}
+
+#info {
+    text-align: center;
+}
